@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30320.27
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bot.MegaSena.Html", "Bot.MegaSena\Bot.MegaSena.Html.csproj", "{C70D6312-FD6D-4E49-A15C-5DF928A553E9}"
 EndProject
@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bot.MegaSena.Json", "Bot.Me
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bot.Instagram.Profile", "Bot.Instagram.Profile\Bot.Instagram.Profile.csproj", "{CECA6CF8-D4CD-4CF5-B7B4-27585CB49827}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bot.OnePiece", "Bot.OnePiece\Bot.OnePiece.csproj", "{58018EFA-91EE-407F-8ED3-EDB5DD59287B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bot.OnePiece", "Bot.OnePiece\Bot.OnePiece.csproj", "{58018EFA-91EE-407F-8ED3-EDB5DD59287B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bot.DesenvolvedorIO", "Bot.DesenvolvedorIO\Bot.DesenvolvedorIO.csproj", "{3A9236F4-BF46-41FD-9B88-A0DDDD7BDFCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{58018EFA-91EE-407F-8ED3-EDB5DD59287B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58018EFA-91EE-407F-8ED3-EDB5DD59287B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58018EFA-91EE-407F-8ED3-EDB5DD59287B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A9236F4-BF46-41FD-9B88-A0DDDD7BDFCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A9236F4-BF46-41FD-9B88-A0DDDD7BDFCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A9236F4-BF46-41FD-9B88-A0DDDD7BDFCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A9236F4-BF46-41FD-9B88-A0DDDD7BDFCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

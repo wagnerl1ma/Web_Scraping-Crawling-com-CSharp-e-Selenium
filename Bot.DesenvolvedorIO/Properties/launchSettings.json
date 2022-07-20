@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Bot.DesenvolvedorIO": {
+      "commandName": "Project",
+      "jsWebView2Debugging": false,
+      "remoteDebugEnabled": false
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}
